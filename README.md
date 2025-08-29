@@ -1,0 +1,2 @@
+# Intelligent-Financial-Document-Automation
+AI-powered invoice automation system achieving 95%+ accuracy &amp; &lt;30sec processing time. Integrates OCR + GPT-4 Vision API for intelligent data extraction &amp; validation. Full-stack solution: FastAPI + SQLite backend, React/TypeScript frontend with drag-drop UI. Features approval workflows &amp; confidence scoring for seamless business automation.
